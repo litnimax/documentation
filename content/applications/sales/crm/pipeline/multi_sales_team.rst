@@ -41,7 +41,7 @@ One person can be added as a team member or Team Leader to multiple Sales Teams,
 Sales Team dashboard
 ====================
 
-To view the Sales Team dashboard, go to :menuselection:`CRM --> Configuration --> Sales Teams`. Any
+To view the Sales Team dashboard, go to :menuselection:`CRM --> Sales --> Teams`. Any
 teams you are a part of will appear as dashboard tiles.
 
 Each tile gives an overview of the Sales Team's open opportunities, quotations, sales orders, and
