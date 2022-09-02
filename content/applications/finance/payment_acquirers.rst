@@ -128,7 +128,7 @@ Online payment acquirers
      -
      -
    * - :doc:`Razorpay <payment_acquirers/razorpay>`
-     - Payment from Odoo
+     - Payment from the acquirer website
      -
      - Full only
      - Full and partial
